@@ -1,4 +1,4 @@
 # Github
 
 arguivo para aulas de iniciantes
-teste
+teste como o git funciona
